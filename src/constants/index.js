@@ -112,30 +112,30 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Frontend Developer",
-    company_name: "SalesQueen Software Solution",
-    icon: salesqueen,
-    iconBg: "#383E56",
-    date: "March 2023 - May 2023",
-    points: [
-      "Developing and maintaining web pages using javascript and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers.",
-    ],
-  },
-  {
     title: "Web Developer",
     company_name: "DSys inc.",
     icon: dsys,
     iconBg: "#383E56",
-    date: "March 2023 - May 2023",
+    date: "June 2023 - July 2023",
     points: [
       "Participated in comprehensive training sessions conducted by senior developers, gaining expertise in frontend technologies and tools",
       "Acquired hands-on experience in building web applications using ReactJS, Firebase, Redux, and Chakra UI",
       "Utilized Firebase to implement real-time database solutions, user authentication, and cloud functions",
       "Implemented Redux for efficient state management, ensuring centralized control of data flow across applications",
       "Demonstrated exceptional problem-solving skills and a strong commitment to continuous learning, proactively staying updated with the latest frontend trends, tools, and best practices to deliver cutting-edge solutions.",
+    ],
+  },
+  {
+    title: "Frontend Developer",
+    company_name: "SalesQueen Software Solution",
+    icon: salesqueen,
+    iconBg: "#383E56",
+    date: "April 2023 - April 2023",
+    points: [
+      "Developing and maintaining web pages using javascript and other related technologies.",
+      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
 ];
