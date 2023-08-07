@@ -20,7 +20,7 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
-
+import dsys from "./company/dsys.jpg";
 import salesqueen from "./company/salesqueen.jpg";
 
 import CampHood from "./CampHood.png";
@@ -48,5 +48,6 @@ export {
   typescript,
   threejs,
   salesqueen,
+  dsys,
   CampHood,
 };
