@@ -22,7 +22,7 @@ import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
 import dsys from "./company/dsys.jpg";
 import salesqueen from "./company/salesqueen.jpg";
-
+import EndlessRunner from "./EndlessRunner.png";
 import CampHood from "./CampHood.png";
 
 export {
@@ -50,4 +50,5 @@ export {
   salesqueen,
   dsys,
   CampHood,
+  EndlessRunner,
 };

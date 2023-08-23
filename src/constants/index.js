@@ -18,6 +18,7 @@ import {
   salesqueen,
   dsys,
   CampHood,
+  EndlessRunner,
   threejs,
 } from "../assets";
 
@@ -50,7 +51,7 @@ const services = [
     icon: creator,
   },
   {
-    title: "React Native Developer",
+    title: "Software Engineer",
     icon: mobile,
   },
 ];
@@ -188,6 +189,26 @@ const projects = [
     ],
     image: CampHood,
     source_code_link: "https://github.com/Anindyaram/CampHood",
+  },
+  {
+    name: "Endless-Runner",
+    description: "Game is made for people's who are visually impaired",
+    tags: [
+      {
+        name: "JavaScript",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "HTML",
+        color: "green-text-gradient",
+      },
+      {
+        name: "CSS",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: EndlessRunner,
+    source_code_link: "https://github.com/Anindyaram/Endless-Runner",
   },
 ];
 
