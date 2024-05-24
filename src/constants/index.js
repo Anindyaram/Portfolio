@@ -19,6 +19,7 @@ import {
   dsys,
   CampHood,
   EndlessRunner,
+  CogniDoc,
   threejs,
 } from "../assets";
 
@@ -169,6 +170,26 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "CogniDoc",
+    description: "A SaaS based website for talking to your pdf",
+    tags: [
+      {
+        name: "Nextjs",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "TailwindCSS",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Prisma",
+        color: "pink-text-gradient",
+      },
+    ],
+    image: CogniDoc,
+    source_code_link: "https://github.com/Anindyaram/Cognidoc",
+  },
   {
     name: "CampHood",
     description:

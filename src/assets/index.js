@@ -24,6 +24,7 @@ import dsys from "./company/dsys.jpg";
 import salesqueen from "./company/salesqueen.jpg";
 import EndlessRunner from "./EndlessRunner.png";
 import CampHood from "./CampHood.png";
+import CogniDoc from "./CogniDoc.png"
 
 export {
   logo,
@@ -51,4 +52,5 @@ export {
   dsys,
   CampHood,
   EndlessRunner,
+  CogniDoc,
 };
